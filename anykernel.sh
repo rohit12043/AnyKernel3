@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Blizzard kernel for rolex
+kernel.string=Dorime kernel for rolex
 do.devicecheck=1
 do.modules=0
 do.systemless=1
